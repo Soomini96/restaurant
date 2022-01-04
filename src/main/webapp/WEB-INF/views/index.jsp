@@ -11,5 +11,7 @@
 </head>
 <body>
 Index Page
+<input type="button" onclick="location.href='/list'" value="리뷰보러가기">
+<input type="button" onclick="location.href='/list'" value="사장님페이지"> -> 로그인체크/사업자체크
 </body>
 </html>
